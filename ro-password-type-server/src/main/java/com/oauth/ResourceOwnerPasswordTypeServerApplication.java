@@ -9,5 +9,4 @@ public class ResourceOwnerPasswordTypeServerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ResourceOwnerPasswordTypeServerApplication.class, args);
 	}
-
 }
